@@ -1,0 +1,7 @@
+ml-trading/
+├── .env                          # Environment variables
+├── .gitignore                    # Ignore secrets, logs, etc., for Git
+├── main.py                       # Entry point for the bot
+├── README.md                     # Project documentation
+├── requirements.txt              # Python package dependencies
+└── structure.yaml                # Project folder structure
