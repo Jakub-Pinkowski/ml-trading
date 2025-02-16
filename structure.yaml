@@ -1,4 +1,19 @@
 ml-trading/
+├── data/
+│   ├── TBD/                      # TBD
+├── notebooks/
+│   ├── TBD/                      # Jupyter notebooks for research & testing
+│── src/                          # Main source code
+│   ├── backtesting/              # Backtesting engine
+│       ├── TBD/                  # TBD
+│   ├── machine_learning/         # ML models and feature engineering
+│   ├── strategies/               # Trading strategies
+│   ├── execution/                # Order execution logic
+│   ├── utils/                    # Helper functions & utilities
+│   ├── config.py                 # Configurations (API keys, settings)
+│   ├── main.py                   # Entry point for running strategies
+├── tests/
+│   ├── TBD/        
 ├── .env                          # Environment variables
 ├── .gitignore                    # Ignore secrets, logs, etc., for Git
 ├── main.py                       # Entry point for the bot
