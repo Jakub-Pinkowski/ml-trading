@@ -11,12 +11,11 @@ ml-trading/
 │   ├── execution/                # Order execution logic
 │   ├── utils/                    # Helper functions & utilities
 │   ├── config.py                 # Configurations (API keys, settings)
-│   ├── main.py                   # Entry point for running strategies
+│   ├── main.py                   # Entry point for the app
 ├── tests/
 │   ├── TBD/        
 ├── .env                          # Environment variables
 ├── .gitignore                    # Ignore secrets, logs, etc., for Git
-├── main.py                       # Entry point for the bot
 ├── README.md                     # Project documentation
 ├── requirements.txt              # Python package dependencies
 └── structure.yaml                # Project folder structure
