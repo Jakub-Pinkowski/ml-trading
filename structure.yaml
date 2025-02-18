@@ -5,7 +5,7 @@ ml-trading/
 │   ├── TBD/                      # Jupyter notebooks for research & testing
 │── src/                          # Main source code
 │   ├── backtesting/              # Backtesting engine
-│       ├── TBD/                  # Alpaca???
+│       ├── TBD/                  # IBKR probably
 │   ├── machine_learning/         # ML models and feature engineering
 │   ├── strategies/               # Trading strategies
 │   ├── execution/                # Order execution logic
